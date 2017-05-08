@@ -1,0 +1,18 @@
+body {
+	border-style: dashed;
+}
+.one {
+	font-style: italic;
+	font-size: 22px;
+}
+.blue{
+	color:blue;
+	font-style:normal;
+	font-size:16px;
+}
+.red {
+	color:red;
+	font-style:normal;
+	font-size:16px;
+
+}

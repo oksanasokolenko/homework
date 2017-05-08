@@ -1,0 +1,22 @@
+body {
+	margin-right: 0;
+}
+
+h1 {
+	background: red;
+	width: 150px;
+	color: white;
+}
+
+p {
+	width: 300px;
+	padding-bottom:50px;
+}
+
+.blue {
+	background: blue;
+}
+
+.yellow	{
+	background: yellow;
+}

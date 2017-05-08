@@ -1,0 +1,11 @@
+body{
+	border:dashed;
+}
+
+p {
+	padding-left: 10px;
+}
+
+sup, sub {
+	font-style: italic;
+}
